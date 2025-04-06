@@ -27,7 +27,7 @@
 To use **Resume_x**, first clone the project to your local machine:
 
 ```bash
-git clone https://github.com/wickdynex/PureCV.git
+git clone https://github.com/mlqqjiang/Resume.x.git
 ```
 
 Make sure you have **XeLaTeX** installed on your system. You can install it based on your OS:
